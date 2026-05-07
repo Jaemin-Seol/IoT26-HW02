@@ -12,13 +12,7 @@ core task.
 
 ![HW2 setup or wiring (2)](results/HW2-2.jpg)
 
-### Demo video (muted by default; unmute in the player if needed)
+### Videos
+[HW2_webm.webm](https://github.com/user-attachments/assets/5e4d120d-828b-4199-9454-45e7a3096ff4)
 
-<video width="640" controls muted playsinline>
-  <source src="results/HW2.mp4" type="video/mp4">
-  Your browser does not support the video tag — use the MP4 link below.
-</video>
-
-[Download HW2.mp4](results/HW2.mp4)
-
-## Screenshot of RPI IDE showing selected board & port
+The demo video can be found in 'results/HW2.mp4'.
