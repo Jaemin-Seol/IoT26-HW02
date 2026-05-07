@@ -5,7 +5,20 @@ core task.
 
 
 ## Result
-result image place holder (video of gif of led reacting on button press)
 
+### Photos
+
+![HW2 setup or wiring (1)](results/HW2-1.jpg)
+
+![HW2 setup or wiring (2)](results/HW2-2.jpg)
+
+### Demo video (muted by default; unmute in the player if needed)
+
+<video width="640" controls muted playsinline>
+  <source src="results/HW2.mp4" type="video/mp4">
+  Your browser does not support the video tag — use the MP4 link below.
+</video>
+
+[Download HW2.mp4](results/HW2.mp4)
 
 ## Screenshot of RPI IDE showing selected board & port
