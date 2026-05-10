@@ -7,6 +7,7 @@ button = Button(4)
 
 while True:
     if button.is_pressed:
+        # LED blink
         led.on()
         sleep(0.1)
         led.off()
