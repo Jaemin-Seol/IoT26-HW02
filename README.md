@@ -3,6 +3,9 @@
 Since this assignment covers the fundamentals, we each decided to implement/practice the code individually to ensure a clear understanding of the Raspberry Pi GPIO control. As a result, there are three variations of code, performing the same
 core task.
 
+### VS Code (IDE) screenshot
+<img width="794" height="377" alt="image" src="https://github.com/user-attachments/assets/50cc05bc-bb87-4f05-8ebf-483a277745e7" />
+
 
 ## Result
 
